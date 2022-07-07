@@ -1,0 +1,6 @@
+{
+    "sketch": "retrieve-mac-address.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0"
+}
